@@ -237,7 +237,7 @@ public class Tetris extends JFrame {
 				
 				switch(e.getKeyCode()) {
 				
-				/*	
+				/*
 				 * Drop - When released, we set the speed of the logic timer
 				 * back to whatever the current game speed is and clear out
 				 * any cycles that might still be elapsed.
